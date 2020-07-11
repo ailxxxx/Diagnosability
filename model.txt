@@ -1,0 +1,9 @@
+Bound 10 K_value 3 observable={o1,o2,o3} unobservable={un1,un2} fault={f}
+1 o1 2
+2 o2 3
+3 f 4
+4 un1 5
+5 o3 5
+2 o2 6
+6 un2 7
+7 o3 7
