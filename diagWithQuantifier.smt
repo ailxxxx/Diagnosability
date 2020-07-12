@@ -89,7 +89,6 @@
 (declare-const lf Int)
 (declare-const ln Int)
 (declare-const lnn Int)
-;(assert (and(> lnn 0)(<= lnn 9)))
 (assert (= ln (+ lnn 1)))
 
 
